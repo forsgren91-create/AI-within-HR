@@ -7,7 +7,6 @@ In the field of HR, AI can help with alot of things. Safety, both how and why ca
 final projekt for Building AI-kursen
 
 ## Summary
-
 This project explores how AI can support HR in identifying and preventing workplace injuries. By analyzing patterns in workplace data, the system helps explain where, how, and why safety risks occur, enabling more proactive decision-making.
 
 
